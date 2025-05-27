@@ -1,1 +1,11 @@
-# PrimeMart
+![login](https://github.com/user-attachments/assets/199494fe-cde6-4267-91f7-d290e610b8f4)
+![signup](https://github.com/user-attachments/assets/308740cf-7bcd-486c-929d-61ae13ec5689)
+![home admin](https://github.com/user-attachments/assets/2d9d1e1f-c88d-4ca4-88d2-20e2796d767b)
+![product admin](https://github.com/user-attachments/assets/41e2c8f1-7d88-4769-bd9b-1f663c826529)
+![add category](https://github.com/user-attachments/assets/ab316e44-cb30-42da-ad70-d630cb67154e)
+![add product](https://github.com/user-attachments/assets/43974b24-5734-4feb-a57c-67f5059f0308)
+![cart admin](https://github.com/user-attachments/assets/67399a45-94bd-4b01-bc6b-b032d65ffdc2)
+![home user](https://github.com/user-attachments/assets/8113a06c-4909-44da-a00b-4ce396273947)
+![product user](https://github.com/user-attachments/assets/0b513e11-d1ef-4240-a12a-a9afcde5b9c6)
+![cart](https://github.com/user-attachments/assets/01015eea-b19e-4112-a229-2b21e9f3d2ce)
+![footer](https://github.com/user-attachments/assets/6a802b57-81c4-4c41-90ea-45b6342675c6)
