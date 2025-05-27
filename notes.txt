@@ -1,0 +1,110 @@
+install XAMMP
+install Vscode Extension (PHP Intelephense ,live server)
+install Live server Extension in chrome
+
+To write php code we use <?php
+// Inside this php coding we can write
+?>
+
+### php is caseSensitive
+
+Varible
+
+in php we create variable using $
+$name = "Vasu";
+variable is name of memory location which store some data
+
+var_dump($name) // is used to varify type of variable
+
+string Func
+
+strlen() return lenght of string
+str_replace(find,new_charOrString)
+ucwords() First char whill be uppercase
+
+Array in php
+
+$name = array("orage","apple",1,2,3,"hello") is a collection of value of diffrent type store at contineuos memory location
+
+foreach($name as $a){
+    echo "$a"
+}
+
+# . operator is used to concatenate string
+
+=> associative array [dic]
+
+$name = array(
+"leader" => "thsi",
+"key" => "value"
+)
+
+echo $name["key"];
+
+foreach ($car as $x => $y) {
+  echo "$x: $y <br>";
+// $x is key and $y is value
+}
+
+function (udf)
+
+// Defnation
+
+function nameOfTheFunction(p,p1){
+// Work Of the function
+}
+
+nameOfTheFunction() // Function call use of the work
+
+# isset ()
+
+Return TRUE,if a variable is declared and not null
+
+# empty()
+
+Return TRUE, if a variable is not declared, false, null, ""
+
+## $\_GET, $\_POST
+
+PHP Special / Super global variables used to collect data from the HTML form, when data is sent to a file via action attribut in the <form> tag.
+
+<form action="some_file.php" method="post">
+
+bot are assocative array [dic]
+
+#Database Connectivity
+
+$servername = "localhost";
+$username = "root";
+$password = "";
+$dbName = "phptutorial";
+//Create connection
+$conn = new mysqli(sservername, Susername, Spassword,
+
+if ($conn-›connect_error){
+echo "Connection failed: ",$conn->error // use die() ,die() will stop the execution
+}
+
+// with oop approch
+
+$con = mysqli_connect($servername, $username, $password,$dbname)
+if(con){
+// Done Connection
+}else{
+print("error" . mysqli_connect_error() )
+}
+
+include( filename ) or require( filename ) // is used to import any phpfile in any phpfile
+
+when we use @new or @mysqli_connect it will not so warnning to us
+
+//Insert Query
+$date = date("Y-m-d H:i:s");
+$sql = "insert into users (username, password, created_at)values('Wasim', 'Pass123', 'Sdate')";
+$result = $conn->query($sql);
+if($result)
+{
+echo "New record"
+}
+
+$conn->error // will print any error happen in code
