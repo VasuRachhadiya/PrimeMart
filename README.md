@@ -1,3 +1,4 @@
+# Prime Mart
 ![login](https://github.com/user-attachments/assets/199494fe-cde6-4267-91f7-d290e610b8f4)
 ![signup](https://github.com/user-attachments/assets/308740cf-7bcd-486c-929d-61ae13ec5689)
 ![home admin](https://github.com/user-attachments/assets/2d9d1e1f-c88d-4ca4-88d2-20e2796d767b)
